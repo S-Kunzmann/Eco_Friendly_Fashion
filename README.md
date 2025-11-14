@@ -5,7 +5,9 @@ As a data analyst, I’m passionate about eco-friendly fashion because it offers
 # Key Questions
 
 Which Countries are more sustainable and produce the least waste, carbon production & water useage?
-
+Does higher GDP predict sustainability scores?
+How do carbon emission, water usage and production waste vary across presidential terms?
+Does economic power drive environmental responsibility?
 
 # Folders
 
